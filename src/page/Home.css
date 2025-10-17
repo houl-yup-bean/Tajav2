@@ -1,0 +1,25 @@
+.mainImg {
+    height: 400px; 
+    width: 400px;
+}
+
+body {
+    background-color: #F3C3E9;
+}
+
+button {
+    background-color: white;
+    color: black;
+}
+
+.start-button {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.left-button {
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.OR-button {
+    border-radius: 0px;
+}
